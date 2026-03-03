@@ -1,4 +1,5 @@
 Criminal Detection System
+
 📌 Overview
 
 This project is built using Python and OpenCV for real-time criminal detection through image processing. MySQL is used for storing and managing criminal records.
